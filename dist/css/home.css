@@ -1,0 +1,11 @@
+.home {
+  height: 100vh;
+  padding-top: 40vh;
+  overflow: hidden;
+  align-items: center;
+  text-align: center;
+  background: url("/images/img.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} /*# sourceMappingURL=home.css.map */
